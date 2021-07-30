@@ -1,0 +1,2 @@
+rootProject.name = "SaveSettings"
+include ':app'
